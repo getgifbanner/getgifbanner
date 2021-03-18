@@ -1,0 +1,42 @@
+body {
+  background-image: url("bg.jpg");
+}
+article {
+    max-width: 1000px;
+    margin: auto;
+    background-color: darkslategray;
+    color: honeydew;
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+}
+
+p {
+  text-align: left;
+  margin-left: 20px;
+}
+ul li{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+table, th, td, tr {
+  border: 3px groove blanchedalmond;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+a{
+    color: #ffffcc;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+p.pf{
+    text-align: center;
+}
+
+
